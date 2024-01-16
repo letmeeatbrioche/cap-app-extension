@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Capitalize",
+  "version": "1.0.0",
+  "description": "Capitalize text in various ways",
+  "icons": {},
+  "action": {
+    "default_popup": "capitalize.html"
+  }
+}
